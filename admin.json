@@ -11,17 +11,24 @@
    "idx": "CatAnchor",
    "do": "set",
    "value": true,
-   "to": "bobthebuilderlover76",
+   "at": 1791061577,
    "id": "1791061577-2",
-   "at": 1791061577
+   "to": "bobthebuilderlover76"
   },
   {
    "idx": "CatAnchor",
    "do": "set",
    "value": false,
-   "at": 1791061642,
+   "to": "bobthebuilderlover76",
    "id": "1791061642-3",
-   "to": "bobthebuilderlover76"
+   "at": 1791061642
+  },
+  {
+   "at": 1791062496,
+   "do": "message",
+   "id": "1791062496-4",
+   "text": "Meow",
+   "to": "*"
   }
  ]
 }
