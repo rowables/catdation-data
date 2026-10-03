@@ -6,6 +6,14 @@
    "id": "1791061519-1",
    "text": "Meow",
    "to": "bobthebuilderlover76"
+  },
+  {
+   "idx": "CatAnchor",
+   "do": "set",
+   "value": true,
+   "at": 1791061577,
+   "id": "1791061577-2",
+   "to": "bobthebuilderlover76"
   }
  ]
 }
