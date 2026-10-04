@@ -1,34 +1,11 @@
 {
  "commands": [
   {
-   "at": 1791061519,
+   "at": 1791157663,
    "do": "message",
-   "id": "1791061519-1",
-   "text": "Meow",
+   "id": "1791157663-1",
+   "text": "meoww",
    "to": "bobthebuilderlover76"
-  },
-  {
-   "idx": "CatAnchor",
-   "do": "set",
-   "value": true,
-   "at": 1791061577,
-   "id": "1791061577-2",
-   "to": "bobthebuilderlover76"
-  },
-  {
-   "idx": "CatAnchor",
-   "do": "set",
-   "value": false,
-   "to": "bobthebuilderlover76",
-   "id": "1791061642-3",
-   "at": 1791061642
-  },
-  {
-   "at": 1791062496,
-   "do": "message",
-   "id": "1791062496-4",
-   "text": "Meow",
-   "to": "*"
   }
  ]
 }
